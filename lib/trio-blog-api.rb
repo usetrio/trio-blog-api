@@ -1,0 +1,1 @@
+require "trio/blog/api"
